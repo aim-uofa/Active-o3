@@ -1,0 +1,20 @@
+{
+    "target_object": [
+        "traffic light"
+    ],
+    "bbox": [
+        [
+            887,
+            751,
+            154,
+            42
+        ]
+    ],
+    "question": "Tell me the number on the traffic light.",
+    "options": [
+        "The number on the traffic light is 19.",
+        "The number on the traffic light is 1.",
+        "The number on the traffic light is 91.",
+        "The number on the traffic light is 11."
+    ]
+}

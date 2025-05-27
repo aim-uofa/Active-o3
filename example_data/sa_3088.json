@@ -1,0 +1,20 @@
+{
+    "target_object": [
+        "police car"
+    ],
+    "bbox": [
+        [
+            567,
+            1346,
+            172,
+            66
+        ]
+    ],
+    "question": "Tell me the number on the police car.",
+    "options": [
+        "The number on the police car is 102.",
+        "The number on the police car is 101.",
+        "The number on the police car is 110.",
+        "The number on the police car is 100."
+    ]
+}
