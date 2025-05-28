@@ -9,7 +9,7 @@
 
 <!-- **CVPR2025** -->
 
-[📄 **Paper**]()&nbsp; | &nbsp;[🌐 **Project Page**](https://aim-uofa.github.io/ACTIVE-o3)&nbsp; | &nbsp;[💾 **Model Weights**](https://www.modelscope.cn/models/zzzmmz/ACTIVE-o3)
+[📄 **Paper**](https://arxiv.org/abs/2505.21457)&nbsp; | &nbsp;[🌐 **Project Page**](https://aim-uofa.github.io/ACTIVE-o3)&nbsp; | &nbsp;[💾 **Model Weights**](https://www.modelscope.cn/models/zzzmmz/ACTIVE-o3)
 </div>
 
 ## 🚀 Overview
@@ -68,10 +68,12 @@ For academic usage, this project is licensed under [the 2-clause BSD License](LI
 If you find this work helpful for your research, please cite:
 
 ```BibTeX
-@article{zhu2025segagent,
-  title={SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories},
-  author={Zhu, Muzhi and Tian, Yuzhuo and Chen, Hao and Zhou, Chunluan and Guo, Qingpei and Liu, Yang and Yang, Ming and Shen, Chunhua},
-  journal={arXiv preprint arXiv:2503.08625},
-  year={2025},
-  url={https://arxiv.org/abs/2503.08625}
+@article{zhu2025activeo3empoweringmultimodallarge,
+      title={Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO}, 
+      author={Muzhi Zhu and Hao Zhong and Canyu Zhao and Zongze Du and Zheng Huang and Mingyu Liu and Hao Chen and Cheng Zou and Jingdong Chen and Ming Yang and Chunhua Shen},
+      year={2025},
+      eprint={2505.21457},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.21457}, 
 }
