@@ -68,12 +68,9 @@ For academic usage, this project is licensed under [the 2-clause BSD License](LI
 If you find this work helpful for your research, please cite:
 
 ```BibTeX
-@article{zhu2025activeo3empoweringmultimodallarge,
-      title={Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO}, 
-      author={Muzhi Zhu and Hao Zhong and Canyu Zhao and Zongze Du and Zheng Huang and Mingyu Liu and Hao Chen and Cheng Zou and Jingdong Chen and Ming Yang and Chunhua Shen},
-      year={2025},
-      eprint={2505.21457},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.21457}, 
+@article{zhu2025active,
+  title={Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO},
+  author={Zhu, Muzhi and Zhong, Hao and Zhao, Canyu and Du, Zongze and Huang, Zheng and Liu, Mingyu and Chen, Hao and Zou, Cheng and Chen, Jingdong and Yang, Ming and others},
+  journal={arXiv preprint arXiv:2505.21457},
+  year={2025}
 }
