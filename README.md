@@ -1,6 +1,6 @@
 <div align="center">
 
-# ACTIVE-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO
+# ACTIVE-o3 : Empowering MLLMs with Active Perception via Pure Reinforcement Learning
 
 
 
