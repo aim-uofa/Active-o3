@@ -69,7 +69,7 @@ If you find this work helpful for your research, please cite:
 
 ```BibTeX
 @article{zhu2025active,
-  title={Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO},
+  title={Active-o3: Empowering multimodal large language models with active perception via grpo},
   author={Zhu, Muzhi and Zhong, Hao and Zhao, Canyu and Du, Zongze and Huang, Zheng and Liu, Mingyu and Chen, Hao and Zou, Cheng and Chen, Jingdong and Yang, Ming and others},
   journal={arXiv preprint arXiv:2505.21457},
   year={2025}
