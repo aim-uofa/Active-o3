@@ -7,7 +7,7 @@
 <sup>1</sup>[Zhejiang University](https://www.zju.edu.cn/english/), &nbsp;
 <sup>2</sup>[Ant Group](https://www.antgroup.com/en)
 
-<!-- **CVPR2025** -->
+**ICML 2026 (Accepted)**
 
 [📄 **Paper**](https://arxiv.org/abs/2505.21457)&nbsp; | &nbsp;[🌐 **Project Page**](https://aim-uofa.github.io/ACTIVE-o3)&nbsp; | &nbsp;[💾 **Model Weights**](https://www.modelscope.cn/models/zzzmmz/ACTIVE-o3)
 </div>
